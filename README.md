@@ -104,8 +104,9 @@ Ecommerce\_Store/
 
 ## Author
 
-Developed by **Huzaifa Murtaza** as a **Mini E-Commerce Store project in PHP**.
+Developed by *Huzaifa Murtaza* as a **Mini E-Commerce Store project in PHP**.
 
 ```
 
 ```
+
