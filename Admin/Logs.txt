@@ -20560,3 +20560,2678 @@ LOG : inserted data already exist in the table : users 02-09-25 21:57:17
 LOG : Error registering user customer !!! 02-09-25 21:57:17 
 LOG : Session destroyed !!! 02-09-25 21:57:17 
 LOG : auth/admin_Loginview is displaying... 02-09-25 21:57:17 
+LOG : New session Started ... 06-09-25 19:01:57 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Database tables created or already exists 06-09-25 19:01:57 
+LOG : Password hashed correctly ... 06-09-25 19:01:58 
+LOG : inserted data already exist in the table : admins 06-09-25 19:01:58 
+LOG : Error registering user Admin !!! 06-09-25 19:01:58 
+LOG : Password hashed correctly ... 06-09-25 19:01:58 
+LOG : inserted data already exist in the table : users 06-09-25 19:01:58 
+LOG : Error registering user customer !!! 06-09-25 19:01:58 
+LOG : auth/admin_Loginview is displaying... 06-09-25 19:01:58 
+LOG : New session Started ... 06-09-25 19:02:07 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Password hashed correctly ... 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : admins 06-09-25 19:02:07 
+LOG : Error registering user Admin !!! 06-09-25 19:02:07 
+LOG : Password hashed correctly ... 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : users 06-09-25 19:02:07 
+LOG : Error registering user customer !!! 06-09-25 19:02:07 
+LOG : Query executed: specific columns Data fetched for specific entry ..... 06-09-25 19:02:07 
+LOG : Password Matched ... 06-09-25 19:02:07 
+LOG : new session value added for : login => 1 ... 06-09-25 19:02:07 
+LOG : new session value added for : email => Admin@Ecommerce.com ... 06-09-25 19:02:07 
+LOG : new session value added for : id => 1 ... 06-09-25 19:02:07 
+LOG : new session value added for : name => Admin ... 06-09-25 19:02:07 
+LOG : User logged IN ... 06-09-25 19:02:07 
+LOG : new session value added for : isadmin => 1 ... 06-09-25 19:02:07 
+LOG : Redirected to URL:index.php?page=admindashboard 06-09-25 19:02:07 
+LOG : New session Started ... 06-09-25 19:02:07 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : Database tables created or already exists 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Electronics 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Clothing 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Books 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Automotive 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:07 
+LOG : Error creating Category : Groceries 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:07 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:07 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:07 
+LOG : fetching session value for id => 1 06-09-25 19:02:07 
+LOG : login is available ... 06-09-25 19:02:07 
+LOG : isadmin is available ... 06-09-25 19:02:07 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:07 
+LOG : All orders fetched ... 06-09-25 19:02:07 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:07 
+LOG : All Products fetched ... 06-09-25 19:02:07 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:07 
+LOG : All orders fetched ... 06-09-25 19:02:07 
+LOG : Query executed: Specific Columns data fetched ..... 06-09-25 19:02:07 
+LOG : fetching session value for name => Admin 06-09-25 19:02:07 
+LOG : All users fetch from datbase by admin : Admin!!! 06-09-25 19:02:07 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:02:07 
+LOG : fetching session value for id => 1 06-09-25 19:02:07 
+LOG : All Cart items fetched ... 1 06-09-25 19:02:07 
+LOG : admin/dashboardview is displaying... 06-09-25 19:02:07 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:07 
+LOG : login is available ... 06-09-25 19:02:07 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:07 
+LOG : login is available ... 06-09-25 19:02:07 
+LOG : fetching session value for login => 1 06-09-25 19:02:07 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:07 
+LOG : fetching session value for name => Admin 06-09-25 19:02:07 
+LOG : New session Started ... 06-09-25 19:02:17 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : Database tables created or already exists 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Electronics 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Clothing 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Books 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Automotive 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Groceries 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:17 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Electronics 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Clothing 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Books 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Automotive 06-09-25 19:02:17 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:17 
+LOG : Error creating Category : Groceries 06-09-25 19:02:17 
+LOG : login is available ... 06-09-25 19:02:17 
+LOG : isadmin is available ... 06-09-25 19:02:17 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:17 
+LOG : All Products fetched ... 06-09-25 19:02:17 
+LOG : products/productsview is displaying... 06-09-25 19:02:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:17 
+LOG : login is available ... 06-09-25 19:02:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:17 
+LOG : login is available ... 06-09-25 19:02:17 
+LOG : fetching session value for login => 1 06-09-25 19:02:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:17 
+LOG : fetching session value for name => Admin 06-09-25 19:02:17 
+LOG : New session Started ... 06-09-25 19:02:21 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : Database tables created or already exists 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Electronics 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Clothing 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Books 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Automotive 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Groceries 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:21 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Electronics 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Clothing 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Books 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Automotive 06-09-25 19:02:21 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:21 
+LOG : Error creating Category : Groceries 06-09-25 19:02:21 
+LOG : login is available ... 06-09-25 19:02:21 
+LOG : isadmin is available ... 06-09-25 19:02:21 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:21 
+LOG : All Categories fetched ... 06-09-25 19:02:21 
+LOG : Query executed: All the data is fetched for specific entry ..... 06-09-25 19:02:21 
+LOG : Product fetch by id: 1 06-09-25 19:02:21 
+LOG : products/edit_productview is displaying... 06-09-25 19:02:21 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:21 
+LOG : login is available ... 06-09-25 19:02:21 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:21 
+LOG : login is available ... 06-09-25 19:02:21 
+LOG : fetching session value for login => 1 06-09-25 19:02:21 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:21 
+LOG : fetching session value for name => Admin 06-09-25 19:02:21 
+LOG : New session Started ... 06-09-25 19:02:25 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : Database tables created or already exists 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Electronics 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Clothing 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Books 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Automotive 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Groceries 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:25 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Electronics 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Clothing 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Books 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Automotive 06-09-25 19:02:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:25 
+LOG : Error creating Category : Groceries 06-09-25 19:02:25 
+LOG : login is available ... 06-09-25 19:02:25 
+LOG : isadmin is available ... 06-09-25 19:02:25 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:25 
+LOG : All Products fetched ... 06-09-25 19:02:25 
+LOG : products/productsview is displaying... 06-09-25 19:02:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:25 
+LOG : login is available ... 06-09-25 19:02:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:25 
+LOG : login is available ... 06-09-25 19:02:25 
+LOG : fetching session value for login => 1 06-09-25 19:02:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:25 
+LOG : fetching session value for name => Admin 06-09-25 19:02:25 
+LOG : New session Started ... 06-09-25 19:02:34 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : Database tables created or already exists 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Electronics 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Clothing 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Books 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Automotive 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Groceries 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:34 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Electronics 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Clothing 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Books 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Automotive 06-09-25 19:02:34 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:34 
+LOG : Error creating Category : Groceries 06-09-25 19:02:34 
+LOG : login is available ... 06-09-25 19:02:34 
+LOG : isadmin is available ... 06-09-25 19:02:34 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:34 
+LOG : All Products fetched ... 06-09-25 19:02:34 
+LOG : products/productsview is displaying... 06-09-25 19:02:34 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:34 
+LOG : login is available ... 06-09-25 19:02:34 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:34 
+LOG : login is available ... 06-09-25 19:02:34 
+LOG : fetching session value for login => 1 06-09-25 19:02:34 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:34 
+LOG : fetching session value for name => Admin 06-09-25 19:02:34 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : Database tables created or already exists 06-09-25 19:02:35 
+LOG : New session Started ... 06-09-25 19:02:35 
+LOG : fetching session value for id => 1 06-09-25 19:02:35 
+LOG : login is available ... 06-09-25 19:02:35 
+LOG : isadmin is available ... 06-09-25 19:02:35 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:02:35 
+LOG : fetching session value for id => 1 06-09-25 19:02:35 
+LOG : All Cart items fetched ... 1 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 6;
+         : Executed  06-09-25 19:02:35 
+LOG : No order items in Cart !!! 6 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:02:35 
+LOG : No order items in Cart !!! 5 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:02:35 
+LOG : All order items fetched ... 4 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:02:35 
+LOG : All order items fetched ... 3 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:02:35 
+LOG : All order items fetched ... 2 06-09-25 19:02:35 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:02:35 
+LOG : All order items fetched ... 1 06-09-25 19:02:35 
+LOG : orders/ordersview is displaying... 06-09-25 19:02:35 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:35 
+LOG : login is available ... 06-09-25 19:02:35 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:35 
+LOG : login is available ... 06-09-25 19:02:35 
+LOG : fetching session value for login => 1 06-09-25 19:02:35 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:35 
+LOG : fetching session value for name => Admin 06-09-25 19:02:35 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : New session Started ... 06-09-25 19:02:47 
+LOG : fetching session value for id => 1 06-09-25 19:02:47 
+LOG : Query executed: All the rows of orders deleted for id entry ..... 06-09-25 19:02:47 
+LOG : Order : 6 --->  deleted succesfully ... 06-09-25 19:02:47 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=orders 06-09-25 19:02:47 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : Database tables created or already exists 06-09-25 19:02:47 
+LOG : New session Started ... 06-09-25 19:02:47 
+LOG : fetching session value for id => 1 06-09-25 19:02:47 
+LOG : login is available ... 06-09-25 19:02:47 
+LOG : isadmin is available ... 06-09-25 19:02:47 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:02:47 
+LOG : fetching session value for id => 1 06-09-25 19:02:47 
+LOG : All Cart items fetched ... 1 06-09-25 19:02:47 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:02:47 
+LOG : No order items in Cart !!! 5 06-09-25 19:02:47 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:02:47 
+LOG : All order items fetched ... 4 06-09-25 19:02:47 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:02:47 
+LOG : All order items fetched ... 3 06-09-25 19:02:47 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:02:47 
+LOG : All order items fetched ... 2 06-09-25 19:02:47 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:02:47 
+LOG : All order items fetched ... 1 06-09-25 19:02:47 
+LOG : orders/ordersview is displaying... 06-09-25 19:02:47 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:47 
+LOG : login is available ... 06-09-25 19:02:47 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:47 
+LOG : login is available ... 06-09-25 19:02:47 
+LOG : fetching session value for login => 1 06-09-25 19:02:47 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:47 
+LOG : fetching session value for name => Admin 06-09-25 19:02:47 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : New session Started ... 06-09-25 19:02:50 
+LOG : fetching session value for id => 1 06-09-25 19:02:50 
+LOG : query executed for orders ........................................................... 06-09-25 19:02:50 
+LOG : Category id : 1 is updated to : processing ... 06-09-25 19:02:50 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=orders 06-09-25 19:02:50 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : Database tables created or already exists 06-09-25 19:02:50 
+LOG : New session Started ... 06-09-25 19:02:50 
+LOG : fetching session value for id => 1 06-09-25 19:02:50 
+LOG : login is available ... 06-09-25 19:02:50 
+LOG : isadmin is available ... 06-09-25 19:02:50 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:02:50 
+LOG : fetching session value for id => 1 06-09-25 19:02:50 
+LOG : All Cart items fetched ... 1 06-09-25 19:02:50 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:02:50 
+LOG : No order items in Cart !!! 5 06-09-25 19:02:50 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:02:50 
+LOG : All order items fetched ... 4 06-09-25 19:02:50 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:02:50 
+LOG : All order items fetched ... 3 06-09-25 19:02:50 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:02:50 
+LOG : All order items fetched ... 2 06-09-25 19:02:50 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:02:50 
+LOG : All order items fetched ... 1 06-09-25 19:02:50 
+LOG : orders/ordersview is displaying... 06-09-25 19:02:50 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:50 
+LOG : login is available ... 06-09-25 19:02:50 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:50 
+LOG : login is available ... 06-09-25 19:02:50 
+LOG : fetching session value for login => 1 06-09-25 19:02:50 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:50 
+LOG : fetching session value for name => Admin 06-09-25 19:02:50 
+LOG : New session Started ... 06-09-25 19:02:55 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : Database tables created or already exists 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Electronics 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Clothing 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Books 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Toys & Games 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Automotive 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : categories 06-09-25 19:02:55 
+LOG : Error creating Category : Groceries 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Camera 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:02:55 
+LOG : inserted data already exist in the table : products 06-09-25 19:02:55 
+LOG : Error creating Initial Product : LCD 06-09-25 19:02:55 
+LOG : fetching session value for id => 1 06-09-25 19:02:55 
+LOG : login is available ... 06-09-25 19:02:55 
+LOG : isadmin is available ... 06-09-25 19:02:55 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:55 
+LOG : All orders fetched ... 06-09-25 19:02:55 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:55 
+LOG : All Products fetched ... 06-09-25 19:02:55 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:02:55 
+LOG : All orders fetched ... 06-09-25 19:02:55 
+LOG : Query executed: Specific Columns data fetched ..... 06-09-25 19:02:55 
+LOG : fetching session value for name => Admin 06-09-25 19:02:55 
+LOG : All users fetch from datbase by admin : Admin!!! 06-09-25 19:02:55 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:02:55 
+LOG : fetching session value for id => 1 06-09-25 19:02:55 
+LOG : All Cart items fetched ... 1 06-09-25 19:02:55 
+LOG : admin/dashboardview is displaying... 06-09-25 19:02:55 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:55 
+LOG : login is available ... 06-09-25 19:02:55 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:55 
+LOG : login is available ... 06-09-25 19:02:55 
+LOG : fetching session value for login => 1 06-09-25 19:02:55 
+LOG : fetching session value for isadmin => 1 06-09-25 19:02:55 
+LOG : fetching session value for name => Admin 06-09-25 19:02:55 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : Database tables created or already exists 06-09-25 19:03:02 
+LOG : New session Started ... 06-09-25 19:03:02 
+LOG : fetching session value for id => 1 06-09-25 19:03:02 
+LOG : login is available ... 06-09-25 19:03:02 
+LOG : isadmin is available ... 06-09-25 19:03:02 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:03:02 
+LOG : fetching session value for id => 1 06-09-25 19:03:02 
+LOG : All Cart items fetched ... 1 06-09-25 19:03:02 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:03:02 
+LOG : No order items in Cart !!! 5 06-09-25 19:03:02 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:03:02 
+LOG : All order items fetched ... 4 06-09-25 19:03:02 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:03:02 
+LOG : All order items fetched ... 3 06-09-25 19:03:02 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:03:02 
+LOG : All order items fetched ... 2 06-09-25 19:03:02 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:03:02 
+LOG : All order items fetched ... 1 06-09-25 19:03:02 
+LOG : orders/ordersview is displaying... 06-09-25 19:03:02 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:02 
+LOG : login is available ... 06-09-25 19:03:02 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:02 
+LOG : login is available ... 06-09-25 19:03:02 
+LOG : fetching session value for login => 1 06-09-25 19:03:02 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:02 
+LOG : fetching session value for name => Admin 06-09-25 19:03:02 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : New session Started ... 06-09-25 19:03:09 
+LOG : fetching session value for id => 1 06-09-25 19:03:09 
+LOG : query executed for orders ........................................................... 06-09-25 19:03:09 
+LOG : Category id : 1 is updated to : delivered ... 06-09-25 19:03:09 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=orders 06-09-25 19:03:09 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : Database tables created or already exists 06-09-25 19:03:09 
+LOG : New session Started ... 06-09-25 19:03:09 
+LOG : fetching session value for id => 1 06-09-25 19:03:09 
+LOG : login is available ... 06-09-25 19:03:09 
+LOG : isadmin is available ... 06-09-25 19:03:09 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:03:09 
+LOG : fetching session value for id => 1 06-09-25 19:03:09 
+LOG : All Cart items fetched ... 1 06-09-25 19:03:09 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:03:09 
+LOG : No order items in Cart !!! 5 06-09-25 19:03:09 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:03:09 
+LOG : All order items fetched ... 4 06-09-25 19:03:09 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:03:09 
+LOG : All order items fetched ... 3 06-09-25 19:03:09 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:03:09 
+LOG : All order items fetched ... 2 06-09-25 19:03:09 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:03:09 
+LOG : All order items fetched ... 1 06-09-25 19:03:09 
+LOG : orders/ordersview is displaying... 06-09-25 19:03:09 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:09 
+LOG : login is available ... 06-09-25 19:03:09 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:09 
+LOG : login is available ... 06-09-25 19:03:09 
+LOG : fetching session value for login => 1 06-09-25 19:03:09 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:09 
+LOG : fetching session value for name => Admin 06-09-25 19:03:09 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : New session Started ... 06-09-25 19:03:14 
+LOG : fetching session value for id => 1 06-09-25 19:03:14 
+LOG : query executed for orders ........................................................... 06-09-25 19:03:14 
+LOG : Category id : 5 is updated to : delivered ... 06-09-25 19:03:14 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=orders 06-09-25 19:03:14 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : Database tables created or already exists 06-09-25 19:03:14 
+LOG : New session Started ... 06-09-25 19:03:14 
+LOG : fetching session value for id => 1 06-09-25 19:03:14 
+LOG : login is available ... 06-09-25 19:03:14 
+LOG : isadmin is available ... 06-09-25 19:03:14 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:03:14 
+LOG : fetching session value for id => 1 06-09-25 19:03:14 
+LOG : All Cart items fetched ... 1 06-09-25 19:03:14 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:03:14 
+LOG : No order items in Cart !!! 5 06-09-25 19:03:14 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:03:14 
+LOG : All order items fetched ... 4 06-09-25 19:03:14 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:03:14 
+LOG : All order items fetched ... 3 06-09-25 19:03:14 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:03:14 
+LOG : All order items fetched ... 2 06-09-25 19:03:14 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:03:14 
+LOG : All order items fetched ... 1 06-09-25 19:03:14 
+LOG : orders/ordersview is displaying... 06-09-25 19:03:14 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:14 
+LOG : login is available ... 06-09-25 19:03:14 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:14 
+LOG : login is available ... 06-09-25 19:03:14 
+LOG : fetching session value for login => 1 06-09-25 19:03:14 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:14 
+LOG : fetching session value for name => Admin 06-09-25 19:03:14 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : New session Started ... 06-09-25 19:03:17 
+LOG : fetching session value for id => 1 06-09-25 19:03:17 
+LOG : query executed for orders ........................................................... 06-09-25 19:03:17 
+LOG : Category id : 3 is updated to : delivered ... 06-09-25 19:03:17 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=orders 06-09-25 19:03:17 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : Database tables created or already exists 06-09-25 19:03:17 
+LOG : New session Started ... 06-09-25 19:03:17 
+LOG : fetching session value for id => 1 06-09-25 19:03:17 
+LOG : login is available ... 06-09-25 19:03:17 
+LOG : isadmin is available ... 06-09-25 19:03:17 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:03:17 
+LOG : fetching session value for id => 1 06-09-25 19:03:17 
+LOG : All Cart items fetched ... 1 06-09-25 19:03:17 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 5;
+         : Executed  06-09-25 19:03:17 
+LOG : No order items in Cart !!! 5 06-09-25 19:03:17 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 4;
+         : Executed  06-09-25 19:03:17 
+LOG : All order items fetched ... 4 06-09-25 19:03:17 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 3;
+         : Executed  06-09-25 19:03:17 
+LOG : All order items fetched ... 3 06-09-25 19:03:17 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 2;
+         : Executed  06-09-25 19:03:17 
+LOG : All order items fetched ... 2 06-09-25 19:03:17 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 1;
+         : Executed  06-09-25 19:03:17 
+LOG : All order items fetched ... 1 06-09-25 19:03:17 
+LOG : orders/ordersview is displaying... 06-09-25 19:03:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:17 
+LOG : login is available ... 06-09-25 19:03:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:17 
+LOG : login is available ... 06-09-25 19:03:17 
+LOG : fetching session value for login => 1 06-09-25 19:03:17 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:17 
+LOG : fetching session value for name => Admin 06-09-25 19:03:17 
+LOG : New session Started ... 06-09-25 19:03:24 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : Database tables created or already exists 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Electronics 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Clothing 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Home & Kitchen 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Books 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Toys & Games 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Health & Wellness 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Automotive 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : categories 06-09-25 19:03:25 
+LOG : Error creating Category : Groceries 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Laptop 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Mobile 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Tripod 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Camera 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Mouse 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : Joystick 06-09-25 19:03:25 
+LOG : inserted data already exist in the table : products 06-09-25 19:03:25 
+LOG : Error creating Initial Product : LCD 06-09-25 19:03:25 
+LOG : fetching session value for id => 1 06-09-25 19:03:25 
+LOG : login is available ... 06-09-25 19:03:25 
+LOG : isadmin is available ... 06-09-25 19:03:25 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:03:25 
+LOG : All orders fetched ... 06-09-25 19:03:25 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:03:25 
+LOG : All Products fetched ... 06-09-25 19:03:25 
+LOG : Query executed: All the data is fetched ..... 06-09-25 19:03:25 
+LOG : All orders fetched ... 06-09-25 19:03:25 
+LOG : Query executed: Specific Columns data fetched ..... 06-09-25 19:03:25 
+LOG : fetching session value for name => Admin 06-09-25 19:03:25 
+LOG : All users fetch from datbase by admin : Admin!!! 06-09-25 19:03:25 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 19:03:25 
+LOG : fetching session value for id => 1 06-09-25 19:03:25 
+LOG : All Cart items fetched ... 1 06-09-25 19:03:25 
+LOG : admin/dashboardview is displaying... 06-09-25 19:03:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:25 
+LOG : login is available ... 06-09-25 19:03:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:25 
+LOG : login is available ... 06-09-25 19:03:25 
+LOG : fetching session value for login => 1 06-09-25 19:03:25 
+LOG : fetching session value for isadmin => 1 06-09-25 19:03:25 
+LOG : fetching session value for name => Admin 06-09-25 19:03:25 
+LOG : New session Started ... 06-09-25 21:48:24 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : Database tables created or already exists 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Electronics 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Clothing 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Home & Kitchen 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Books 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Beauty & Personal Care 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Sports & Outdoors 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Toys & Games 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Health & Wellness 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Automotive 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : categories 06-09-25 21:48:27 
+LOG : Error creating Category : Groceries 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Laptop 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Mobile 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Tripod 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Camera 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Mouse 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : Joystick 06-09-25 21:48:27 
+LOG : inserted data already exist in the table : products 06-09-25 21:48:27 
+LOG : Error creating Initial Product : LCD 06-09-25 21:48:27 
+LOG : fetching session value for id => 1 06-09-25 21:48:27 
+LOG : login is available ... 06-09-25 21:48:27 
+LOG : isadmin is available ... 06-09-25 21:48:27 
+LOG : Query executed: All the data is fetched ..... 06-09-25 21:48:27 
+LOG : All orders fetched ... 06-09-25 21:48:27 
+LOG : Query executed: All the data is fetched ..... 06-09-25 21:48:27 
+LOG : All Products fetched ... 06-09-25 21:48:27 
+LOG : Query executed: All the data is fetched ..... 06-09-25 21:48:27 
+LOG : All orders fetched ... 06-09-25 21:48:27 
+LOG : Query executed: Specific Columns data fetched ..... 06-09-25 21:48:27 
+LOG : fetching session value for name => Admin 06-09-25 21:48:27 
+LOG : All users fetch from datbase by admin : Admin!!! 06-09-25 21:48:27 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  06-09-25 21:48:27 
+LOG : fetching session value for id => 1 06-09-25 21:48:27 
+LOG : All Cart items fetched ... 1 06-09-25 21:48:27 
+LOG : admin/dashboardview is displaying... 06-09-25 21:48:27 
+LOG : fetching session value for isadmin => 1 06-09-25 21:48:27 
+LOG : login is available ... 06-09-25 21:48:27 
+LOG : fetching session value for isadmin => 1 06-09-25 21:48:27 
+LOG : login is available ... 06-09-25 21:48:27 
+LOG : fetching session value for login => 1 06-09-25 21:48:27 
+LOG : fetching session value for isadmin => 1 06-09-25 21:48:27 
+LOG : fetching session value for name => Admin 06-09-25 21:48:27 
+LOG : New session Started ... 06-09-25 21:48:34 
+LOG : Database 'Ecommerce_Store_2' created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Database tables created or already exists 06-09-25 21:48:34 
+LOG : Password hashed correctly ... 06-09-25 21:48:35 
+LOG : inserted data already exist in the table : admins 06-09-25 21:48:35 
+LOG : Error registering user Admin !!! 06-09-25 21:48:35 
+LOG : Password hashed correctly ... 06-09-25 21:48:35 
+LOG : inserted data already exist in the table : users 06-09-25 21:48:35 
+LOG : Error registering user customer !!! 06-09-25 21:48:35 
+LOG : Session destroyed !!! 06-09-25 21:48:35 
+LOG : auth/admin_Loginview is displaying... 06-09-25 21:48:35 
+LOG : New session Started ... 14-09-25 12:56:38 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Database tables created or already exists 14-09-25 12:56:38 
+LOG : Password hashed correctly ... 14-09-25 12:56:38 
+LOG : inserted data already exist in the table : admins 14-09-25 12:56:38 
+LOG : Error registering user Admin !!! 14-09-25 12:56:38 
+LOG : Password hashed correctly ... 14-09-25 12:56:38 
+LOG : inserted data already exist in the table : users 14-09-25 12:56:38 
+LOG : Error registering user customer !!! 14-09-25 12:56:38 
+LOG : auth/admin_Loginview is displaying... 14-09-25 12:56:38 
+LOG : New session Started ... 14-09-25 12:56:44 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Password hashed correctly ... 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : admins 14-09-25 12:56:44 
+LOG : Error registering user Admin !!! 14-09-25 12:56:44 
+LOG : Password hashed correctly ... 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : users 14-09-25 12:56:44 
+LOG : Error registering user customer !!! 14-09-25 12:56:44 
+LOG : Query executed: specific columns Data fetched for specific entry ..... 14-09-25 12:56:44 
+LOG : Password Matched ... 14-09-25 12:56:44 
+LOG : new session value added for : login => 1 ... 14-09-25 12:56:44 
+LOG : new session value added for : email => Admin@Ecommerce.com ... 14-09-25 12:56:44 
+LOG : new session value added for : id => 1 ... 14-09-25 12:56:44 
+LOG : new session value added for : name => Admin ... 14-09-25 12:56:44 
+LOG : User logged IN ... 14-09-25 12:56:44 
+LOG : new session value added for : isadmin => 1 ... 14-09-25 12:56:44 
+LOG : Redirected to URL:index.php?page=admindashboard 14-09-25 12:56:44 
+LOG : New session Started ... 14-09-25 12:56:44 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : Database tables created or already exists 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Electronics 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Clothing 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Home & Kitchen 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Books 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Beauty & Personal Care 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Sports & Outdoors 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Toys & Games 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Health & Wellness 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Automotive 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : categories 14-09-25 12:56:44 
+LOG : Error creating Category : Groceries 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Laptop 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Mobile 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Tripod 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Camera 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Mouse 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : Joystick 14-09-25 12:56:44 
+LOG : inserted data already exist in the table : products 14-09-25 12:56:44 
+LOG : Error creating Initial Product : LCD 14-09-25 12:56:44 
+LOG : fetching session value for id => 1 14-09-25 12:56:44 
+LOG : login is available ... 14-09-25 12:56:44 
+LOG : isadmin is available ... 14-09-25 12:56:44 
+LOG : No orders found !!! 14-09-25 12:56:44 
+LOG : Query executed: All the data is fetched ..... 14-09-25 12:56:44 
+LOG : All Products fetched ... 14-09-25 12:56:44 
+LOG : No orders found !!! 14-09-25 12:56:44 
+LOG : Query executed: Specific Columns data fetched ..... 14-09-25 12:56:44 
+LOG : fetching session value for name => Admin 14-09-25 12:56:44 
+LOG : All users fetch from datbase by admin : Admin!!! 14-09-25 12:56:44 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  14-09-25 12:56:44 
+LOG : fetching session value for id => 1 14-09-25 12:56:44 
+LOG : No item in Cart !!! 1 14-09-25 12:56:44 
+LOG : admin/dashboardview is displaying... 14-09-25 12:56:44 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:44 
+LOG : login is available ... 14-09-25 12:56:44 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:44 
+LOG : login is available ... 14-09-25 12:56:44 
+LOG : fetching session value for login => 1 14-09-25 12:56:44 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:44 
+LOG : fetching session value for name => Admin 14-09-25 12:56:44 
+LOG : fetching session value for show_account_modal => no value!!! 14-09-25 12:56:44 
+LOG : value unset for show_account_modal 14-09-25 12:56:44 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:44 
+LOG : value unset for error 14-09-25 12:56:44 
+LOG : fetching session value for show_Login => no value!!! 14-09-25 12:56:44 
+LOG : value unset for show_Login 14-09-25 12:56:44 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:44 
+LOG : value unset for error 14-09-25 12:56:44 
+LOG : fetching session value for show_Register => no value!!! 14-09-25 12:56:44 
+LOG : value unset for show_Register 14-09-25 12:56:44 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:44 
+LOG : value unset for error 14-09-25 12:56:44 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : Database tables created or already exists 14-09-25 12:56:47 
+LOG : New session Started ... 14-09-25 12:56:47 
+LOG : fetching session value for id => 1 14-09-25 12:56:47 
+LOG : login is available ... 14-09-25 12:56:47 
+LOG : isadmin is available ... 14-09-25 12:56:47 
+LOG : Query executed: Specific Columns data fetched ..... 14-09-25 12:56:47 
+LOG : fetching session value for name => Admin 14-09-25 12:56:47 
+LOG : All users fetch from datbase by admin : Admin!!! 14-09-25 12:56:47 
+LOG : admin/usersview is displaying... 14-09-25 12:56:47 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:47 
+LOG : login is available ... 14-09-25 12:56:47 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:47 
+LOG : login is available ... 14-09-25 12:56:47 
+LOG : fetching session value for login => 1 14-09-25 12:56:47 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:47 
+LOG : fetching session value for name => Admin 14-09-25 12:56:47 
+LOG : fetching session value for show_account_modal => no value!!! 14-09-25 12:56:47 
+LOG : value unset for show_account_modal 14-09-25 12:56:47 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:47 
+LOG : value unset for error 14-09-25 12:56:47 
+LOG : fetching session value for show_Login => no value!!! 14-09-25 12:56:47 
+LOG : value unset for show_Login 14-09-25 12:56:47 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:47 
+LOG : value unset for error 14-09-25 12:56:47 
+LOG : fetching session value for show_Register => no value!!! 14-09-25 12:56:47 
+LOG : value unset for show_Register 14-09-25 12:56:47 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:47 
+LOG : value unset for error 14-09-25 12:56:47 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : New session Started ... 14-09-25 12:56:52 
+LOG : fetching session value for id => 1 14-09-25 12:56:52 
+LOG : Query executed: All the rows of users deleted for id entry ..... 14-09-25 12:56:52 
+LOG : user deleted with id : 8 !!! 14-09-25 12:56:52 
+LOG : Redirected to URL:http://localhost/codes/OOP/Ecommerce_Store/Admin/index.php?page=users 14-09-25 12:56:52 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : Database tables created or already exists 14-09-25 12:56:52 
+LOG : New session Started ... 14-09-25 12:56:52 
+LOG : fetching session value for id => 1 14-09-25 12:56:52 
+LOG : login is available ... 14-09-25 12:56:52 
+LOG : isadmin is available ... 14-09-25 12:56:52 
+LOG : Query executed: Specific Columns data fetched ..... 14-09-25 12:56:52 
+LOG : fetching session value for name => Admin 14-09-25 12:56:52 
+LOG : All users fetch from datbase by admin : Admin!!! 14-09-25 12:56:52 
+LOG : admin/usersview is displaying... 14-09-25 12:56:52 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:52 
+LOG : login is available ... 14-09-25 12:56:52 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:52 
+LOG : login is available ... 14-09-25 12:56:52 
+LOG : fetching session value for login => 1 14-09-25 12:56:52 
+LOG : fetching session value for isadmin => 1 14-09-25 12:56:52 
+LOG : fetching session value for name => Admin 14-09-25 12:56:52 
+LOG : fetching session value for show_account_modal => no value!!! 14-09-25 12:56:52 
+LOG : value unset for show_account_modal 14-09-25 12:56:52 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:52 
+LOG : value unset for error 14-09-25 12:56:52 
+LOG : fetching session value for show_Login => no value!!! 14-09-25 12:56:52 
+LOG : value unset for show_Login 14-09-25 12:56:52 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:52 
+LOG : value unset for error 14-09-25 12:56:52 
+LOG : fetching session value for show_Register => no value!!! 14-09-25 12:56:52 
+LOG : value unset for show_Register 14-09-25 12:56:52 
+LOG : fetching session value for error => no value!!! 14-09-25 12:56:52 
+LOG : value unset for error 14-09-25 12:56:52 
+LOG : New session Started ... 14-09-25 12:56:55 
+LOG : Database 'Ecommerce_Store_2' created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Database tables created or already exists 14-09-25 12:56:55 
+LOG : Password hashed correctly ... 14-09-25 12:56:55 
+LOG : inserted data already exist in the table : admins 14-09-25 12:56:55 
+LOG : Error registering user Admin !!! 14-09-25 12:56:55 
+LOG : Password hashed correctly ... 14-09-25 12:56:55 
+LOG : Data inserted in users .... 14-09-25 12:56:55 
+LOG : User registered ... 14-09-25 12:56:55 
+LOG : Session destroyed !!! 14-09-25 12:56:55 
+LOG : auth/admin_Loginview is displaying... 14-09-25 12:56:55 
+LOG : New session Started ... 18-09-25 20:38:42 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Database tables created or already exists 18-09-25 20:38:42 
+LOG : Password hashed correctly ... 18-09-25 20:38:42 
+LOG : inserted data already exist in the table : admins 18-09-25 20:38:42 
+LOG : Error registering user Admin !!! 18-09-25 20:38:42 
+LOG : Password hashed correctly ... 18-09-25 20:38:42 
+LOG : inserted data already exist in the table : users 18-09-25 20:38:42 
+LOG : Error registering user customer !!! 18-09-25 20:38:42 
+LOG : auth/admin_Loginview is displaying... 18-09-25 20:38:42 
+LOG : New session Started ... 18-09-25 20:38:49 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Password hashed correctly ... 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : admins 18-09-25 20:38:49 
+LOG : Error registering user Admin !!! 18-09-25 20:38:49 
+LOG : Password hashed correctly ... 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : users 18-09-25 20:38:49 
+LOG : Error registering user customer !!! 18-09-25 20:38:49 
+LOG : Query executed: specific columns Data fetched for specific entry ..... 18-09-25 20:38:49 
+LOG : Password Matched ... 18-09-25 20:38:49 
+LOG : new session value added for : login => 1 ... 18-09-25 20:38:49 
+LOG : new session value added for : email => Admin@Ecommerce.com ... 18-09-25 20:38:49 
+LOG : new session value added for : id => 1 ... 18-09-25 20:38:49 
+LOG : new session value added for : name => Admin ... 18-09-25 20:38:49 
+LOG : User logged IN ... 18-09-25 20:38:49 
+LOG : new session value added for : isadmin => 1 ... 18-09-25 20:38:49 
+LOG : Redirected to URL:index.php?page=admindashboard 18-09-25 20:38:49 
+LOG : New session Started ... 18-09-25 20:38:49 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : Database tables created or already exists 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Electronics 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Clothing 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Books 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Toys & Games 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Automotive 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : categories 18-09-25 20:38:49 
+LOG : Error creating Category : Groceries 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Laptop 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Mobile 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Tripod 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Camera 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Mouse 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : Joystick 18-09-25 20:38:49 
+LOG : inserted data already exist in the table : products 18-09-25 20:38:49 
+LOG : Error creating Initial Product : LCD 18-09-25 20:38:49 
+LOG : fetching session value for id => 1 18-09-25 20:38:49 
+LOG : login is available ... 18-09-25 20:38:49 
+LOG : isadmin is available ... 18-09-25 20:38:49 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:38:49 
+LOG : All orders fetched ... 18-09-25 20:38:49 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:38:49 
+LOG : All Products fetched ... 18-09-25 20:38:49 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:38:49 
+LOG : All orders fetched ... 18-09-25 20:38:49 
+LOG : Query executed: Specific Columns data fetched ..... 18-09-25 20:38:49 
+LOG : fetching session value for name => Admin 18-09-25 20:38:49 
+LOG : All users fetch from datbase by admin : Admin!!! 18-09-25 20:38:49 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  18-09-25 20:38:49 
+LOG : fetching session value for id => 1 18-09-25 20:38:49 
+LOG : All Cart items fetched ... 1 18-09-25 20:38:49 
+LOG : admin/dashboardview is displaying... 18-09-25 20:38:49 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=admindashboard ... 18-09-25 20:38:49 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:38:49 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=admindashboard ... 18-09-25 20:38:49 
+LOG : fetching session value for message => no value!!! 18-09-25 20:38:49 
+LOG : value unset for message 18-09-25 20:38:49 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=admindashboard ... 18-09-25 20:38:49 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:49 
+LOG : value unset for error 18-09-25 20:38:49 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:49 
+LOG : login is available ... 18-09-25 20:38:49 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:49 
+LOG : login is available ... 18-09-25 20:38:49 
+LOG : fetching session value for login => 1 18-09-25 20:38:49 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:49 
+LOG : fetching session value for name => Admin 18-09-25 20:38:49 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:38:49 
+LOG : value unset for show_account_modal 18-09-25 20:38:49 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:38:49 
+LOG : value unset for show_Login 18-09-25 20:38:49 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:49 
+LOG : value unset for error 18-09-25 20:38:49 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:38:49 
+LOG : value unset for show_Register 18-09-25 20:38:49 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:49 
+LOG : value unset for error 18-09-25 20:38:49 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:38:49 
+LOG : value unset for show_Forgot_Password 18-09-25 20:38:49 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:49 
+LOG : value unset for error 18-09-25 20:38:49 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : Database tables created or already exists 18-09-25 20:38:55 
+LOG : New session Started ... 18-09-25 20:38:55 
+LOG : fetching session value for id => 1 18-09-25 20:38:55 
+LOG : login is available ... 18-09-25 20:38:55 
+LOG : isadmin is available ... 18-09-25 20:38:55 
+LOG : Query executed: Specific Columns data fetched ..... 18-09-25 20:38:55 
+LOG : fetching session value for name => Admin 18-09-25 20:38:55 
+LOG : All users fetch from datbase by admin : Admin!!! 18-09-25 20:38:55 
+LOG : admin/usersview is displaying... 18-09-25 20:38:55 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=users ... 18-09-25 20:38:55 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:38:55 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=users ... 18-09-25 20:38:55 
+LOG : fetching session value for message => no value!!! 18-09-25 20:38:55 
+LOG : value unset for message 18-09-25 20:38:55 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=users ... 18-09-25 20:38:55 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:55 
+LOG : value unset for error 18-09-25 20:38:55 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:55 
+LOG : login is available ... 18-09-25 20:38:55 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:55 
+LOG : login is available ... 18-09-25 20:38:55 
+LOG : fetching session value for login => 1 18-09-25 20:38:55 
+LOG : fetching session value for isadmin => 1 18-09-25 20:38:55 
+LOG : fetching session value for name => Admin 18-09-25 20:38:55 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:38:55 
+LOG : value unset for show_account_modal 18-09-25 20:38:55 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:38:55 
+LOG : value unset for show_Login 18-09-25 20:38:55 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:55 
+LOG : value unset for error 18-09-25 20:38:55 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:38:55 
+LOG : value unset for show_Register 18-09-25 20:38:55 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:55 
+LOG : value unset for error 18-09-25 20:38:55 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:38:55 
+LOG : value unset for show_Forgot_Password 18-09-25 20:38:55 
+LOG : fetching session value for error => no value!!! 18-09-25 20:38:55 
+LOG : value unset for error 18-09-25 20:38:55 
+LOG : New session Started ... 18-09-25 20:39:01 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : Database tables created or already exists 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Electronics 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Clothing 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Books 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Automotive 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Groceries 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Laptop 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Mobile 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Tripod 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Camera 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Mouse 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : Joystick 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:01 
+LOG : Error creating Initial Product : LCD 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Electronics 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Clothing 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Books 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Automotive 18-09-25 20:39:01 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:01 
+LOG : Error creating Category : Groceries 18-09-25 20:39:01 
+LOG : login is available ... 18-09-25 20:39:01 
+LOG : isadmin is available ... 18-09-25 20:39:01 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:39:01 
+LOG : All Products fetched ... 18-09-25 20:39:01 
+LOG : products/productsview is displaying... 18-09-25 20:39:01 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=manage_products ... 18-09-25 20:39:01 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:39:01 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=manage_products ... 18-09-25 20:39:01 
+LOG : fetching session value for message => no value!!! 18-09-25 20:39:01 
+LOG : value unset for message 18-09-25 20:39:01 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=manage_products ... 18-09-25 20:39:01 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:01 
+LOG : value unset for error 18-09-25 20:39:01 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:01 
+LOG : login is available ... 18-09-25 20:39:01 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:01 
+LOG : login is available ... 18-09-25 20:39:01 
+LOG : fetching session value for login => 1 18-09-25 20:39:01 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:01 
+LOG : fetching session value for name => Admin 18-09-25 20:39:01 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:39:01 
+LOG : value unset for show_account_modal 18-09-25 20:39:01 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:39:01 
+LOG : value unset for show_Login 18-09-25 20:39:01 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:01 
+LOG : value unset for error 18-09-25 20:39:01 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:39:01 
+LOG : value unset for show_Register 18-09-25 20:39:01 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:01 
+LOG : value unset for error 18-09-25 20:39:01 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:39:01 
+LOG : value unset for show_Forgot_Password 18-09-25 20:39:01 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:01 
+LOG : value unset for error 18-09-25 20:39:01 
+LOG : New session Started ... 18-09-25 20:39:04 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : Database tables created or already exists 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Electronics 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Clothing 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Books 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Automotive 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Groceries 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Laptop 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Mobile 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Tripod 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Camera 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Mouse 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : Joystick 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:04 
+LOG : Error creating Initial Product : LCD 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Electronics 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Clothing 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Books 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Automotive 18-09-25 20:39:04 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:04 
+LOG : Error creating Category : Groceries 18-09-25 20:39:04 
+LOG : login is available ... 18-09-25 20:39:04 
+LOG : isadmin is available ... 18-09-25 20:39:04 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:39:04 
+LOG : All Categories fetched ... 18-09-25 20:39:04 
+LOG : Query executed: All the data is fetched for specific entry ..... 18-09-25 20:39:04 
+LOG : Product fetch by id: 2 18-09-25 20:39:04 
+LOG : products/edit_productview is displaying... 18-09-25 20:39:04 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product&id=2 ... 18-09-25 20:39:04 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:39:04 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product&id=2 ... 18-09-25 20:39:04 
+LOG : fetching session value for message => no value!!! 18-09-25 20:39:04 
+LOG : value unset for message 18-09-25 20:39:04 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product ... 18-09-25 20:39:04 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:04 
+LOG : value unset for error 18-09-25 20:39:04 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:04 
+LOG : login is available ... 18-09-25 20:39:04 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:04 
+LOG : login is available ... 18-09-25 20:39:04 
+LOG : fetching session value for login => 1 18-09-25 20:39:04 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:04 
+LOG : fetching session value for name => Admin 18-09-25 20:39:04 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:39:04 
+LOG : value unset for show_account_modal 18-09-25 20:39:04 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:39:04 
+LOG : value unset for show_Login 18-09-25 20:39:04 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:04 
+LOG : value unset for error 18-09-25 20:39:04 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:39:04 
+LOG : value unset for show_Register 18-09-25 20:39:04 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:04 
+LOG : value unset for error 18-09-25 20:39:04 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:39:04 
+LOG : value unset for show_Forgot_Password 18-09-25 20:39:04 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:04 
+LOG : value unset for error 18-09-25 20:39:04 
+LOG : New session Started ... 18-09-25 20:39:11 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : Database tables created or already exists 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Electronics 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Clothing 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Books 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Automotive 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Groceries 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Laptop 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Mobile 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Tripod 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Camera 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Mouse 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : Joystick 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : products 18-09-25 20:39:11 
+LOG : Error creating Initial Product : LCD 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Electronics 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Clothing 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Home & Kitchen 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Books 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Beauty & Personal Care 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Sports & Outdoors 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Toys & Games 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Health & Wellness 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Automotive 18-09-25 20:39:11 
+LOG : inserted data already exist in the table : categories 18-09-25 20:39:11 
+LOG : Error creating Category : Groceries 18-09-25 20:39:11 
+LOG : login is available ... 18-09-25 20:39:11 
+LOG : isadmin is available ... 18-09-25 20:39:11 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:39:11 
+LOG : All Categories fetched ... 18-09-25 20:39:11 
+LOG : Query executed: No data is fetched for specific entry ..... 18-09-25 20:39:11 
+LOG : No product for id:  18-09-25 20:39:11 
+LOG : query executed for products ........................................................... 18-09-25 20:39:11 
+LOG : Product Mobile with id : 2 is updated to : Array
+(
+    [id] => 2
+    [category_id] => 1
+    [name] => Mobile
+    [description] => 6.5 inch smartphone with 128GB storage, 8GB RAM, 5000mAh battery.
+    [price] => 499.00
+    [stock] => 0500
+    [published] => 1
+    [image] => uploads/products/mobile.jpeg
+)
+ ... 18-09-25 20:39:11 
+LOG : Query executed: All the data is fetched ..... 18-09-25 20:39:11 
+LOG : All Products fetched ... 18-09-25 20:39:11 
+LOG : products/productsview is displaying... 18-09-25 20:39:11 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product ... 18-09-25 20:39:11 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:39:11 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product ... 18-09-25 20:39:11 
+LOG : fetching session value for message => no value!!! 18-09-25 20:39:11 
+LOG : value unset for message 18-09-25 20:39:11 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=edit_product ... 18-09-25 20:39:11 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:11 
+LOG : value unset for error 18-09-25 20:39:11 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:11 
+LOG : login is available ... 18-09-25 20:39:11 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:11 
+LOG : login is available ... 18-09-25 20:39:11 
+LOG : fetching session value for login => 1 18-09-25 20:39:11 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:11 
+LOG : fetching session value for name => Admin 18-09-25 20:39:11 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:39:11 
+LOG : value unset for show_account_modal 18-09-25 20:39:11 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:39:11 
+LOG : value unset for show_Login 18-09-25 20:39:11 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:11 
+LOG : value unset for error 18-09-25 20:39:11 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:39:11 
+LOG : value unset for show_Register 18-09-25 20:39:11 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:11 
+LOG : value unset for error 18-09-25 20:39:11 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:39:11 
+LOG : value unset for show_Forgot_Password 18-09-25 20:39:11 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:11 
+LOG : value unset for error 18-09-25 20:39:11 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : Database tables created or already exists 18-09-25 20:39:16 
+LOG : New session Started ... 18-09-25 20:39:16 
+LOG : fetching session value for id => 1 18-09-25 20:39:16 
+LOG : login is available ... 18-09-25 20:39:16 
+LOG : isadmin is available ... 18-09-25 20:39:16 
+LOG : SELECT 
+            o.id              AS order_id,
+            o.created_at AS order_date,
+            o.status,
+            o.total_amount,
+
+            u.id              AS user_id,
+            u.name            AS user_name,
+            u.email           AS user_email
+
+            
+
+        FROM orders o
+        JOIN users u 
+            ON o.user_id = u.id
+
+
+        ORDER BY o.id DESC;
+
+         : Executed  18-09-25 20:39:16 
+LOG : fetching session value for id => 1 18-09-25 20:39:16 
+LOG : All Cart items fetched ... 1 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 13;
+         : Executed  18-09-25 20:39:16 
+LOG : No order items in Cart !!! 13 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 12;
+         : Executed  18-09-25 20:39:16 
+LOG : No order items in Cart !!! 12 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 11;
+         : Executed  18-09-25 20:39:16 
+LOG : No order items in Cart !!! 11 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 10;
+         : Executed  18-09-25 20:39:16 
+LOG : All order items fetched ... 10 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 9;
+         : Executed  18-09-25 20:39:16 
+LOG : All order items fetched ... 9 18-09-25 20:39:16 
+LOG : SELECT 
+            oi.id AS order_item_id,
+            oi.order_id,
+            oi.product_id,
+            oi.quantity,
+            oi.price,
+            p.name AS product_name,
+            p.description AS product_description,
+            p.image AS product_image,
+            p.category_id
+        FROM order_items oi
+        JOIN products p ON oi.product_id = p.id
+        WHERE oi.order_id = 8;
+         : Executed  18-09-25 20:39:16 
+LOG : All order items fetched ... 8 18-09-25 20:39:16 
+LOG : orders/ordersview is displaying... 18-09-25 20:39:16 
+LOG : new session value added for : url_get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=orders ... 18-09-25 20:39:16 
+LOG : fetching session value for product_id => no value!!! 18-09-25 20:39:16 
+LOG : new session value added for : url_2get => /codes/OOP/Ecommerce_Store/Admin/index.php?page=orders ... 18-09-25 20:39:16 
+LOG : fetching session value for message => no value!!! 18-09-25 20:39:16 
+LOG : value unset for message 18-09-25 20:39:16 
+LOG : new session value added for : url_1 => /codes/OOP/Ecommerce_Store/Admin/index.php?page=orders ... 18-09-25 20:39:16 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:16 
+LOG : value unset for error 18-09-25 20:39:16 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:16 
+LOG : login is available ... 18-09-25 20:39:16 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:16 
+LOG : login is available ... 18-09-25 20:39:16 
+LOG : fetching session value for login => 1 18-09-25 20:39:16 
+LOG : fetching session value for isadmin => 1 18-09-25 20:39:16 
+LOG : fetching session value for name => Admin 18-09-25 20:39:16 
+LOG : fetching session value for show_account_modal => no value!!! 18-09-25 20:39:16 
+LOG : value unset for show_account_modal 18-09-25 20:39:16 
+LOG : fetching session value for show_Login => no value!!! 18-09-25 20:39:16 
+LOG : value unset for show_Login 18-09-25 20:39:16 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:16 
+LOG : value unset for error 18-09-25 20:39:16 
+LOG : fetching session value for show_Register => no value!!! 18-09-25 20:39:16 
+LOG : value unset for show_Register 18-09-25 20:39:16 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:16 
+LOG : value unset for error 18-09-25 20:39:16 
+LOG : fetching session value for show_Forgot_Password => no value!!! 18-09-25 20:39:16 
+LOG : value unset for show_Forgot_Password 18-09-25 20:39:16 
+LOG : fetching session value for error => no value!!! 18-09-25 20:39:16 
+LOG : value unset for error 18-09-25 20:39:16 
+LOG : New session Started ... 18-09-25 20:39:18 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Database tables created or already exists 18-09-25 20:39:18 
+LOG : Password hashed correctly ... 18-09-25 20:39:18 
+LOG : inserted data already exist in the table : admins 18-09-25 20:39:18 
+LOG : Error registering user Admin !!! 18-09-25 20:39:18 
+LOG : Password hashed correctly ... 18-09-25 20:39:19 
+LOG : inserted data already exist in the table : users 18-09-25 20:39:19 
+LOG : Error registering user customer !!! 18-09-25 20:39:19 
+LOG : Session destroyed !!! 18-09-25 20:39:19 
+LOG : auth/admin_Loginview is displaying... 18-09-25 20:39:19 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : New session Started ... 18-09-25 20:42:40 
+LOG : fetching session value for id => no value!!! 18-09-25 20:42:40 
+LOG : login is not available !!! 18-09-25 20:42:40 
+LOG : Redirected to URL:index.php?page=admin_Login 18-09-25 20:42:40 
+LOG : New session Started ... 18-09-25 20:42:40 
+LOG : Database 'Ecommerce_Store_2' created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Database tables created or already exists 18-09-25 20:42:40 
+LOG : Password hashed correctly ... 18-09-25 20:42:40 
+LOG : inserted data already exist in the table : admins 18-09-25 20:42:40 
+LOG : Error registering user Admin !!! 18-09-25 20:42:40 
+LOG : Password hashed correctly ... 18-09-25 20:42:40 
+LOG : inserted data already exist in the table : users 18-09-25 20:42:40 
+LOG : Error registering user customer !!! 18-09-25 20:42:40 
+LOG : auth/admin_Loginview is displaying... 18-09-25 20:42:40 

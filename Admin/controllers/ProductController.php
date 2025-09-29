@@ -51,6 +51,8 @@ class ProductController_Admin extends Controller
     function show_Product_By_Id($id)
     {
 
+        $this->session->setSessionValue("product_id",$id);
+        
         if ($this->session->has("login") && $this->session->has("isadmin")) {
             $output = $this->Product->get_Product_By_Id($id);
             if (!empty($output)) {

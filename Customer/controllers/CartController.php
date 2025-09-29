@@ -34,8 +34,10 @@ class CartController extends Controller
         }
     }
 
-    function add_Cart_items($product_Id, $user_id, $quantity = 1)
+    function add_Cart_items($product_Id,  $quantity = 1)
     {
+        $user_id = $this->session->getSessionValue('id');
+
         if ($this->session->has('id')) {
             $this->cart->add_To_Cart(["user_id" => $user_id, "product_id" => $product_Id, "quantity" => $quantity]);
 
@@ -49,7 +51,7 @@ class CartController extends Controller
             $P_quantity = $this->session->getSessionValue("quatity_of_products");
 
             $product_Quantity = $P_quantity[$product_Id];
-            
+
             $quantity = $product_Quantity + 1;
 
             $this->session->setSessionArrayValue("quatity_of_products", [$product_Id => $quantity]);

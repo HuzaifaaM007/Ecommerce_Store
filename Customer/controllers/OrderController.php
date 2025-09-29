@@ -54,18 +54,17 @@ class OrderController_Customer extends Controller
         
     }
 
-    function place_order($user_id)
+    function place_order()
     {
         $order_Data = [];
+        
+        $user_id = $this->session->getSessionValue('id');
 
         $user_Output = $this->user->get_User_By_Id($user_id);
 
 
 
         if ($_SERVER['REQUEST_METHOD'] == "POST") {
-
-
-
 
             foreach ($user_Output as $user_Data) {
                 $description = "delivering {$_POST['products_Quantity']} products to {$user_Data['address']} for {$user_Data['name']} ....";
@@ -185,8 +184,9 @@ class OrderController_Customer extends Controller
         }
     }
 
-    function orders_History($user_id)
+    function orders_History()
     {
+        $user_id = $this->session->getSessionValue('id');
         if ($this->session->has('login')) {
 
             $Orders_Output = $this->order->get_user_orders($user_id);

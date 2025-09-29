@@ -8,12 +8,8 @@ use models\Order\Order;
 
 class OrderController_Admin extends Controller
 {
-
-
     private $order;
     private $session;
-
-
     function __construct()
     {
         $this->order = new Order();

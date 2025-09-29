@@ -23,43 +23,75 @@ class User
     {
         $output =  $this->db->getData(["id", "name", "phone", "address"], "users", ["email" => $email], 2);
         if (!empty($output)) {
-            $this->logmessage($output[0]["name"] ." fetch from database by admin : ". $this->ss->getSessionValue('name'));
+            $this->logmessage($output[0]["name"] . " fetch from database by admin : " . $this->ss->getSessionValue('name'));
             return $output;
         } else {
             return $output;
         }
     }
 
-    function get_All_Users(){
-        $output = $this->db->getData(["id", "name", "phone", "address"],"users",[],1);
+    function get_All_Users()
+    {
+        $output = $this->db->getData(["id", "name", "phone", "address"], "users", [], 1);
         if (!empty($output)) {
-             $this->logmessage("All users fetch from datbase by admin : ". $this->ss->getSessionValue('name'). "!!!");
+            $this->logmessage("All users fetch from datbase by admin : " . $this->ss->getSessionValue('name') . "!!!");
             return $output;
         } else {
             return [];
         }
     }
 
-    function get_User_By_Id($user_id){
-        
-        $output =  $this->db->getData(["id", "name", "phone", "address","email","created_at"], "users", ["id" => $user_id], 2);
+    function get_User_By_Id($user_id)
+    {
+
+        $output =  $this->db->getData(["id", "name", "phone", "address", "email", "created_at"], "users", ["id" => $user_id], 2);
         if (!empty($output)) {
-            $this->logmessage($output[0]["name"] ." fetch from database by admin : ". $this->ss->getSessionValue('name'));
+            $this->logmessage($output[0]["name"] . " fetch from database by admin : " . $this->ss->getSessionValue('name'));
             return $output;
         } else {
             return $output;
         }
     }
 
-    function delete_User($user_id){
-        $output = $this->db->remove_Data(["id" => $user_id],"users",2);
+    function delete_User($user_id)
+    {
+        $output = $this->db->remove_Data(["id" => $user_id], "users", 2);
 
         if ($output) {
             $this->logmessage("user deleted with id : $user_id !!!");
             return $output;
-        }
-        else {
+        } else {
             return $output;
+        }
+    }
+
+    function update_User($data, $conditions)
+    {
+
+        $user_id = $this->ss->getSessionValue('id');
+
+
+        $output = $this->db->update_Data("users", $data, $conditions);
+
+        if ($output) {
+            $this->logmessage("user data updated for  id : $user_id !!!");
+            return $output;
+        } else {
+            return $output;
+        }
+    }
+
+    function get_security_codes()
+    {
+        $user_id = $this->ss->getSessionValue('id');
+
+        $output = $this->db->getData([],"security_codes",["user_id"=>$user_id],2);
+
+        if (!empty($output)) {
+            return $output;
+        }
+        else{
+            return [];
         }
     }
 }

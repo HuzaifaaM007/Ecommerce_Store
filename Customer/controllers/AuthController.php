@@ -66,22 +66,27 @@ class AuthController_Customer extends Controller
                 foreach ($cart_Products as $item) {
                     $quantity = $products_Quantity[$item];
                     // echo " quantity => $quantity ";
-                    
+
                     $this->cart->add_Cart_items_Without($item, $user_Id, $quantity);
-
-
                 }
 
+                $url = strtok($_SERVER['HTTP_REFERER'], '&');
 
-                $this->redirect("index.php?page=cart");
+                $this->redirect($url);
             } else {
 
-                $this->session->setSessionValue("error","Invalid credentials");
-                $this->session->setSessionValue("show_Login",true);
-                $this->redirect("index.php?page=cart");
+                $this->session->setSessionValue("error", "Invalid credentials");
+
+                $this->session->setSessionValue("show_Login", true);
+
+                // $url = strtok($_SERVER['HTTP_REFERER'], '&');
+                $url = $_SERVER['HTTP_REFERER'];
+                $this->redirect($url);
             }
         } else {
-            $this->view_Customer("auth/login");
+            $url = strtok($_SERVER['HTTP_REFERER'], '&');
+
+            $this->redirect($url);
         }
     }
 
@@ -113,7 +118,7 @@ class AuthController_Customer extends Controller
         }
     }
 
-    
+
     function show_Registration_Form_CheckOut()
     {
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -133,12 +138,115 @@ class AuthController_Customer extends Controller
 
             $success = $this->auth->registerUser($userData, "users");
 
-            
-            
+            if ($success) {
+
+                $url = strtok($_SERVER['HTTP_REFERER'], '&');
+                // $this->session->setSessionValue("error", "User already exists !!!");
+                $this->session->setSessionValue("show_Register", false);
+
+                $this->session->setSessionValue("show_Login", true);
+
+
+                $this->redirect($url);
+            } else {
+                $url = strtok($_SERVER['HTTP_REFERER'], '&');
+                $this->session->setSessionValue("error", "User already exists !!!");
+                $this->session->setSessionValue("show_Register", true);
+
+                $this->redirect($url);
+            }
         } else {
             $this->view_Customer("auth/register");
         }
     }
+
+
+    function reset_Password()
+    {
+        $url = $_SERVER['HTTP_REFERER'];
+        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+
+            $current_Password = $_POST['current_password'];
+            $new_Password = $_POST['new_password'];
+            $confirm_Password = $_POST['confirm_password'];
+
+            if ($new_Password === $confirm_Password) {
+                $success = $this->auth->resetPassword($current_Password, $new_Password, "users");
+                if ($success) {
+                    $this->session->setSessionValue('message', 'Password updated');
+
+                    $this->redirect($url);
+                } else {
+                    $this->session->setSessionValue('error', 'error updating password !!!');
+                    $this->redirect($url);
+                }
+            } else {
+                $this->redirect($url);
+            }
+        }
+    }
+
+    function reset_Password_()
+    {
+        $url = $_SERVER['HTTP_REFERER'];
+        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+
+            $current_Password = $_POST['current_password'];
+            $new_Password = $_POST['new_password'];
+            $confirm_Password = $_POST['confirm_password'];
+
+            if ($new_Password === $confirm_Password) {
+                $success = $this->auth->resetPassword($current_Password, $new_Password, "users");
+                if ($success) {
+                    $this->session->setSessionValue('message', 'Password updated');
+
+                    $this->redirect($url);
+                } else {
+                    $this->session->setSessionValue('error', 'error updating password !!!');
+                    $this->redirect($url);
+                }
+            } else {
+                $this->redirect($url);
+            }
+        }
+    }
+
+    function update_security_codes()
+    {
+        $success = $this->auth->update_security_codes();
+        echo " $success ..........";
+        $url = $_SERVER['HTTP_REFERER'];
+        // if ($success==4) {
+        $this->session->setSessionValue('message', 'Security codes Updated');
+
+        $this->redirect($url);
+        // }
+        //  else {
+        //     $this->session->setSessionValue('error', 'error updating codes !!!');
+        //     $this->redirect($url);
+        // }
+    }
+
+    function forgot_Password_code_check()
+    {
+        $url = $_SERVER['HTTP_REFERER'];
+        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+
+            $email = $_POST['email'];
+            $code = $_POST['code'];
+           
+            $success = $this->auth->forgot_Password($code,$email);
+
+            if ($success) {
+                $this->session->setSessionValue('message','update the password');
+                $this->redirect("index.php?page=products");
+            }
+           } else {
+                $this->redirect($url);
+            }
+        
+    }
+
     function log_Out()
     {
         $this->auth->logOut();

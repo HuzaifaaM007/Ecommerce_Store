@@ -130,7 +130,12 @@ class Database
     );
     ";
 
-
+    private $sqlSecurityCodes = "CREATE TABLE IF NOT EXISTS security_codes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    security_code VARCHAR(10),
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+    );";
 
     private static $instance = null;
 
@@ -149,6 +154,7 @@ class Database
         $this->create_Table($this->sqlOrderitems);
         $this->create_Table($this->sqlCart);
         $this->create_Table($this->sqlLogs);
+        $this->create_Table($this->sqlSecurityCodes);
     }
 
 
@@ -326,7 +332,7 @@ class Database
                 return false;
             }
         } elseif ($option == 3) {
-            
+
             $select_Sql .= " WHERE ";
             $cols = [];
             $params = [];
@@ -381,7 +387,6 @@ class Database
             } else {
                 $this->logmessage("inserted data already exist in the table : $table");
                 return false;
-            
             }
         }
     }

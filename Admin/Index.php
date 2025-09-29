@@ -19,6 +19,8 @@ use models\User\User;
 
 require __DIR__ . "/../traits/Logger.php";
 require __DIR__ . "/../traits/HasherTrait.php";
+require __DIR__ . "/../traits/Code_Generator_Trait.php";
+
 require_once __DIR__ . "/../core/Session.php";
 require_once __DIR__ . "/../core/Database.php";
 require __DIR__ . "/../core/Auth.php";

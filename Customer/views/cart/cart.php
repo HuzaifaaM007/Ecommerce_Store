@@ -5,6 +5,7 @@ $session = core\Session\Session::getInstance();
 
 // $session->setSessionValue("show_Login",false) ;
 $showLogin = false;
+$showRegister = false;
 $error = "";
 
 
@@ -133,11 +134,13 @@ $error = "";
                     <input type="hidden" name="login" value="1">
                 </form>
 
+                <a href="<?= htmlspecialchars($url) ?>&login=1" class="bg-black text-white px-6 py-2 rounded hover:bg-gray-800">Checkout </a>
+<!-- 
                 <Button type="submit"
                     form="login_form" name="check_out_login"
                     class="bg-black text-white px-6 py-2 rounded hover:bg-gray-800">
-                    Checkout </Button>
-                <?php include __DIR__ . "/../auth/loginModal.php"; ?>
+                    Checkout </Button> -->
+
                 <a href="index.php?page=clear_cart_without"
                     class="bg-gray-200 text-black px-4 py-2 rounded hover:bg-gray-300">
                     Clear Cart.
